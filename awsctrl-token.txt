@@ -1,0 +1,2 @@
+aws access key control pattern
+aws_key=AKIAQQ9GITCTRL118MQX
